@@ -1,0 +1,62 @@
+*.exe
+*.vsix
+*.zip
+.obsidian/
+\!*.*
+desktop.ini
+
+
+# ==========================================
+# Vanilla / Universal Web Dev .gitignore
+# ==========================================
+
+# --- Package Dependencies ---
+node_modules/
+jspm_packages/
+.pnp/
+.pnp.js
+
+# --- Environment & Security Secrets ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.pem
+*.key
+
+# --- Build Outputs & Bundlers ---
+dist/
+build/
+out/
+.next/
+.nuxt/
+.svelte-kit/
+.output/
+.cache/
+.parcel-cache/
+
+# --- Logs and Runtime Diagnostics ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Operating System Artifacts ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# --- Editor and Workspace Specifics ---
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
