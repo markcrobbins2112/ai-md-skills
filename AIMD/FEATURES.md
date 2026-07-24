@@ -4,14 +4,14 @@ title: FEATURES
 
 <!-- # TEMPLATE: FEATURES.template.md -->
 <!--
-# FEATURES
-# Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
-# Replace those placeholders with real paths, rules, and project constraints.
-#
-# INSTRUCTIONS FOR THE AI AGENT:
-# This file structures user-facing capabilities and functional features.
-# Group related software parts into "Feature Groups" (with tags and anchors),
-# then list them alphabetically under "All Features".
+FEATURES
+Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
+Replace those placeholders with real paths, rules, and project constraints.
+
+INSTRUCTIONS FOR THE AI AGENT:
+This file structures user-facing capabilities and functional features.
+Group related software parts into "Feature Groups" (with tags and anchors),
+then list them alphabetically under "All Features".
 -->
 
 <!-- markdownlint-disable MD013 -->

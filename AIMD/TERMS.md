@@ -4,13 +4,13 @@ title: TERMS
 
 <!-- # TEMPLATE: TERMS.template.md -->
 <!--
-# TERMS
-# Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
-# Replace those placeholders with real project terms, definitions, and acronym boundaries.
-#
-# INSTRUCTIONS FOR THE AI AGENT:
-# Use this document to resolve semantic naming conventions, acronyms, and systemic definitions.
-# When generating code comments, documentation, or logs, always use these exact terms to describe structural components.
+TERMS
+Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
+Replace those placeholders with real project terms, definitions, and acronym boundaries.
+
+INSTRUCTIONS FOR THE AI AGENT:
+Use this document to resolve semantic naming conventions, acronyms, and systemic definitions.
+When generating code comments, documentation, or logs, always use these exact terms to describe structural components.
 -->
 
 <!-- markdownlint-disable MD013 -->

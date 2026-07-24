@@ -4,14 +4,14 @@ title: SPEC
 
 <!-- # TEMPLATE: SPEC.template.md -->
 <!--
-# SPEC
-# Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
-# Replace those placeholders with real paths, rules, and project constraints.
-#
-# INSTRUCTIONS FOR THE AI AGENT:
-# This file tracks formal specifications, comparing originally requested guidelines
-# against actual implemented items. Document architectural challenges, optimization rules,
-# compatibility constraints, and platform limits.
+SPEC
+Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
+Replace those placeholders with real paths, rules, and project constraints.
+
+INSTRUCTIONS FOR THE AI AGENT:
+This file tracks formal specifications, comparing originally requested guidelines
+against actual implemented items. Document architectural challenges, optimization rules,
+compatibility constraints, and platform limits.
 -->
 
 <!-- markdownlint-disable MD013 -->

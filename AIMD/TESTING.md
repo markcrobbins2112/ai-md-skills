@@ -4,14 +4,14 @@ title: TESTING
 
 <!-- # TEMPLATE: TESTING.template.md -->
 <!--
-# TESTING
-# Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
-# Replace those placeholders with real paths, rules, and project constraints.
-#
-# INSTRUCTIONS FOR THE AI AGENT:
-# This file is an interactive QA test sheet. Use it to coordinate regression checks,
-# layout edits, interface interactions, calculations checks, state transitions, and border boundaries.
-# Every major feature module must map back to an actionable checkbox item with expected outcomes.
+TESTING
+Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
+Replace those placeholders with real paths, rules, and project constraints.
+
+INSTRUCTIONS FOR THE AI AGENT:
+This file is an interactive QA test sheet. Use it to coordinate regression checks,
+layout edits, interface interactions, calculations checks, state transitions, and border boundaries.
+Every major feature module must map back to an actionable checkbox item with expected outcomes.
 -->
 
 <!-- markdownlint-disable MD013 -->

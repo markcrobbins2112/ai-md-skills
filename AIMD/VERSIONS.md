@@ -4,13 +4,13 @@ title: VERSIONS
 
 <!-- # TEMPLATE: VERSIONS.template.md -->
 <!--
-# VERSIONS
-# Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
-# Replace those placeholders with semantic version history and deployment updates.
-#
-# INSTRUCTIONS FOR THE AI AGENT:
-# Use this document to trace the evolution of the software across versions.
-# When deploying a new stable release or version milestone, document it at the TOP of this file using semantic versioning.
+VERSIONS
+Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
+Replace those placeholders with semantic version history and deployment updates.
+
+INSTRUCTIONS FOR THE AI AGENT:
+Use this document to trace the evolution of the software across versions.
+When deploying a new stable release or version milestone, document it at the TOP of this file using semantic versioning.
 -->
 
 <!-- markdownlint-disable MD013 -->

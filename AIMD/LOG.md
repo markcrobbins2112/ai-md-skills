@@ -4,15 +4,15 @@ title: LOG
 
 <!-- # TEMPLATE: LOG.template.md -->
 <!--
-# LOG
-# Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
-# Replace those placeholders with real paths, rules, and project constraints.
-#
-# INSTRUCTIONS FOR THE AI AGENT:
-# This file tracks chronological development progress. On every single session or
-# significant functional edit, register a new entry detailing goals, executed changes,
-# affected files, and upcoming pipelines.
-# Keep the very latest entry at the top of the "Log Entries" section.
+LOG
+Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
+Replace those placeholders with real paths, rules, and project constraints.
+
+INSTRUCTIONS FOR THE AI AGENT:
+This file tracks chronological development progress. On every single session or
+significant functional edit, register a new entry detailing goals, executed changes,
+affected files, and upcoming pipelines.
+Keep the very latest entry at the top of the "Log Entries" section.
 -->
 
 <!-- markdownlint-disable MD013 -->
@@ -44,18 +44,18 @@ title: LOG
   - [📑 AI Primary Files](#a-aiprimaryfiles) <a id="toc-aiprimaryfiles"></a> ^toc-aiprimaryfiles
   - [💾 Commit Message](#a-commitmessage) <a id="toc-commitmessage"></a> ^toc-commitmessage
   - [📝 Log Entries](#a-logentries) <a id="toc-logentries"></a> ^toc-logentries
+  - [🏛️ Permanent Decision Record Archive](#a-permanentdecisionrecordarchive) <a id="toc-permanentdecisionrecordarchive"></a> ^toc-permanentdecisionrecordarchive
   - [🚀 Go to...](#a-goto) <a id="toc-goto"></a> ^toc-goto
 ---
 ## 💾 Commit Message
 <a id="a-commitmessage"></a>[TOC](#toc-commitmessage)
 ```text
-docs: compile markdown templates and active files with anchor ID and TOC format
+docs: update and format AIMD documentation framework files
 
-- Formatted all markdown files in templates/_/AIMD/ and templates/_/
-- Formatted all active markdown files in AIMD/ and root workspace
-- Applied anchor ID and Table of Contents format utilizing 'a-' and 'toc-' prefixes
-- Upgraded headers with Form B link format '<a id="a-X"></a>[TOC](#toc-X)'
-- Standardized Table of Contents entries to Form A Index Format
+- Synchronized all active markdown documentation in /AIMD/ with template standards in /_/AIMD/
+- Ensured explicit anchor ID targets with 'a-' and 'toc-' prefixes on all section headings
+- Formatted clean and hierarchical Table of Contents sections across all AIMD documentation files
+- Updated placeholder defaults and toolchain prerequisites to match active project workspace
 ```
 
 ## 📝 Log Entries
@@ -81,7 +81,37 @@ docs: compile markdown templates and active files with anchor ID and TOC format
 
   #### 🍀 Next Steps, Suggestions, Concerns
   - {{Action Item 1}}: {{Detailed summary}}
-  >
+-->
+
+### 📅 [2026-07-24T00:18:00Z]
+<a id="a-20260724t001800z"></a>[TOC](#toc-20260724t001800z)
+#### 🎯 Primary Goals & Requirements
+<a id="a-primarygoalsrequirements20260724t001800z"></a>[TOC](#toc-primarygoalsrequirements20260724t001800z)
+- Synchronize and format all active documentation files in `/AIMD/` using templates from `/_/AIMD/` and markdown formatting skills for guidance.
+
+#### 🛠️ Completed Changes in this Session
+<a id="a-completedchangesinthissession20260724t001800z"></a>[TOC](#toc-completedchangesinthissession20260724t001800z)
+- Updated all `/AIMD/` files (`ARCHIVE.md`, `BUILD.md`, `CODE.md`, `DESIGN.md`, `FEATURES.md`, `LOG.md`, `MANUAL.md`, `SPEC.md`, `TASKS.md`, `TERMS.md`, `TESTING.md`, `VERSIONS.md`) to adhere to template conventions and anchor formatting rules.
+- Validated Table of Contents hierarchy, explicit anchor IDs (`a-` and `toc-` prefixes), and top/bottom comment markers across the documentation framework.
+
+#### 🔸 Affected Files
+<a id="a-affectedfiles20260724t001800z"></a>[TOC](#toc-affectedfiles20260724t001800z)
+- `/AIMD/ARCHIVE.md`
+- `/AIMD/BUILD.md`
+- `/AIMD/CODE.md`
+- `/AIMD/DESIGN.md`
+- `/AIMD/FEATURES.md`
+- `/AIMD/LOG.md`
+- `/AIMD/MANUAL.md`
+- `/AIMD/SPEC.md`
+- `/AIMD/TASKS.md`
+- `/AIMD/TERMS.md`
+- `/AIMD/TESTING.md`
+- `/AIMD/VERSIONS.md`
+
+#### 🍀 Next Steps, Suggestions, Concerns
+<a id="a-nextstepssuggestionsconcerns20260724t001800z"></a>[TOC](#toc-nextstepssuggestionsconcerns20260724t001800z)
+- Maintain the AIMD documentation framework as project features and source files evolve.
 
 ### 📅 [2026-07-22T07:45:00Z]
 <a id="a-20260722t074500z"></a>[TOC](#toc-20260722t074500z)

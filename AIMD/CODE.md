@@ -4,13 +4,13 @@ title: CODE
 
 <!-- # TEMPLATE: CODE.template.md -->
 <!--
-# CODE
-# Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
-# Replace those placeholders with real paths, rules, and project constraints.
-#
-# INSTRUCTIONS FOR THE AI AGENT:
-# This file governs programming guidelines, syntax conventions, indentation (tabs vs spaces),
-# ordering, and regions formatting. Every single code file must adhere strictly to these rules!
+CODE
+Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
+Replace those placeholders with real paths, rules, and project constraints.
+
+INSTRUCTIONS FOR THE AI AGENT:
+This file governs programming guidelines, syntax conventions, indentation (tabs vs spaces),
+ordering, and regions formatting. Every single code file must adhere strictly to these rules!
 -->
 
 <!-- markdownlint-disable MD013 -->

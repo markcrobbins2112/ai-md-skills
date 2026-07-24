@@ -4,13 +4,13 @@ title: DESIGN
 
 <!-- # TEMPLATE: DESIGN.template.md -->
 <!--
-# DESIGN
-# Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
-# Replace those placeholders with real paths, rules, and project constraints.
-#
-# INSTRUCTIONS FOR THE AI AGENT:
-# Use this document as the single source of truth for the system's design patterns, constraints, and data flow.
-# Do not propose code or modifications that violate the patterns, structural layouts, or database schemas defined below.
+DESIGN
+Any text bounded by double curly braces {{like this}} is a placeholder for you to fill out.
+Replace those placeholders with real paths, rules, and project constraints.
+
+INSTRUCTIONS FOR THE AI AGENT:
+Use this document as the single source of truth for the system's design patterns, constraints, and data flow.
+Do not propose code or modifications that violate the patterns, structural layouts, or database schemas defined below.
 -->
 
 <!-- markdownlint-disable MD013 -->
